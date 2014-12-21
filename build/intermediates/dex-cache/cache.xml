@@ -23,6 +23,27 @@
         <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-07bee5b76591c4d49869df27d1c8ff3c58475bac.jar" />
     </item>
     <item
+        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="263921bb533f22c6ae13ee8f66d449b5a734968a">
+        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-050838de38ad167d942e10a0036aea997e68efeb.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-0bebfb46f403c40459aedd79b236fcecbf8a1cf8.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-e987db8808b349fc2c8b2c60f38ec68c850959cf.jar" />
+    </item>
+    <item
         jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/classes.jar"
         jumboMode="false"
         revision="21.1.1"
@@ -30,11 +51,32 @@
         <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-2f37ce309939e0fb841fccd492d2628df0680297.jar" />
     </item>
     <item
+        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-6da20a6f6a6d1ef3898dd36ec3095e7767bfb440.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-1c58ed93e299889e21de6e45329d75ddaff325c3.jar" />
+    </item>
+    <item
         jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.2.1/classes.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="263921bb533f22c6ae13ee8f66d449b5a734968a">
         <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-9b47688557a04bc02ef2252c0eb6d861c5434d78.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-214bced0290ea8867aaab1260ae3b08d9afe3f38.jar" />
     </item>
     <item
         jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
