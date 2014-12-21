@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/edwinhernandez/Documents/Recursos Android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b5db2fa51a5fa85b7b6657b8ad081cc8c3fdf561.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d624d0dfd29e1b342ecede749dec24b73ee34882.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-07bee5b76591c4d49869df27d1c8ff3c58475bac.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-2f37ce309939e0fb841fccd492d2628df0680297.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="263921bb533f22c6ae13ee8f66d449b5a734968a">
+        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-9b47688557a04bc02ef2252c0eb6d861c5434d78.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-cb19c3bbc80409a2cb394ccb23afceaf84a91157.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-336e41a39437c7d3bdc3b8ac7b2b2a92046ced3b.jar" />
+    </item>
+
+</items>
