@@ -2,95 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/Users/edwinhernandez/Documents/Recursos Android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jar="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
-        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b5db2fa51a5fa85b7b6657b8ad081cc8c3fdf561.jar" />
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\pre-dexed\debug\classes-30d1f00cad3c83c03c1237d846aef3bb0315a27a.jar" />
     </item>
     <item
-        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
-        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d624d0dfd29e1b342ecede749dec24b73ee34882.jar" />
-    </item>
-    <item
-        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-07bee5b76591c4d49869df27d1c8ff3c58475bac.jar" />
-    </item>
-    <item
-        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.2.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="263921bb533f22c6ae13ee8f66d449b5a734968a">
-        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-050838de38ad167d942e10a0036aea997e68efeb.jar" />
-    </item>
-    <item
-        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-0bebfb46f403c40459aedd79b236fcecbf8a1cf8.jar" />
-    </item>
-    <item
-        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
-        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-e987db8808b349fc2c8b2c60f38ec68c850959cf.jar" />
-    </item>
-    <item
-        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/classes.jar"
+        jar="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.1\classes.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
-        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-2f37ce309939e0fb841fccd492d2628df0680297.jar" />
+        <dex dex="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\pre-dexed\debug\classes-d0c3e850e4d3af80c1ef5c925da20c74a92e73f1.jar" />
     </item>
     <item
-        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jar="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
-        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-6da20a6f6a6d1ef3898dd36ec3095e7767bfb440.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-eec2fd998591702bc8c62544de3d244bb85116e9.jar" />
     </item>
     <item
-        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jar="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
-        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-1c58ed93e299889e21de6e45329d75ddaff325c3.jar" />
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\pre-dexed\debug\classes-d7a60b3644ad9fce2691936a51928e64eb7096c6.jar" />
     </item>
     <item
-        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.2.1/classes.jar"
+        jar="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\pre-dexed\debug\classes-60ab2c98d2834da50a5179353558cf1fdc0eeb6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6852fd566554e81b1b27af89692dcef8bf1c4808.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\pre-dexed\debug\classes-72950b777af60f2cb81883a744e3f59040a72407.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.2.1\classes.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="263921bb533f22c6ae13ee8f66d449b5a734968a">
-        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-9b47688557a04bc02ef2252c0eb6d861c5434d78.jar" />
-    </item>
-    <item
-        jar="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
-        <dex dex="/Users/edwinhernandez/Ejemplo-drawer-y-floating/app/build/intermediates/pre-dexed/debug/classes-214bced0290ea8867aaab1260ae3b08d9afe3f38.jar" />
-    </item>
-    <item
-        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
-        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-cb19c3bbc80409a2cb394ccb23afceaf84a91157.jar" />
-    </item>
-    <item
-        jar="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
-        <dex dex="/Users/edwinhernandez/Desktop/Material Design/MDExample/app/build/intermediates/pre-dexed/debug/classes-336e41a39437c7d3bdc3b8ac7b2b2a92046ced3b.jar" />
+        <dex dex="C:\Users\Daniel\Documents\GitHub\EjemploMaterial\app\build\intermediates\pre-dexed\debug\classes-d4c6a0d4ab9ffff87dc31ac045d6a7f8f59ffcbe.jar" />
     </item>
 
 </items>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ejemplo-drawer-y-floating.iml" filepath="$PROJECT_DIR$/Ejemplo-drawer-y-floating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploMaterial.iml" filepath="$PROJECT_DIR$/EjemploMaterial.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

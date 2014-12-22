@@ -13,4 +13,6 @@
         <item>Menu 5</item>
     </string-array>
 
+    <string name="title_activity_fragmento3">Fragmento3</string>
+
 </resources>
